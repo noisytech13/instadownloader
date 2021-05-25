@@ -13,5 +13,9 @@ chmod +x insta.py
 python3 insta.py
 
 
+For full photos of the victim 
+instaloader profile < username >
+
+
 
 
